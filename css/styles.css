@@ -34,6 +34,7 @@ section, summary, time, mark, audio, video {
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
+    scroll-behavior: smooth;
     display: block;
 }
 
